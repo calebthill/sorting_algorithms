@@ -16,7 +16,7 @@ require 'pry'
 #   array
 # end
 
-# puts selection_sort([7,6,5,4,1,2,3,4])
+puts selection_sort([7,6,5,4,1,2,3,4])
 
 def selection_sort(array)
   (array.length - 2).times do |index|
@@ -36,3 +36,39 @@ def selection_sort(array)
 end
 
 puts selection_sort([7,6,5,4,1,2,3,4,1,2,3,7,6,5,4,3,2,8,7,6,5,4,3,8,6,3,2,1])
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
